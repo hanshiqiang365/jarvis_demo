@@ -1,0 +1,12 @@
+You said: hello
+AI said: 你好
+You said: 你的名字
+AI said: 我是小L～
+You said: 名字很好听
+AI said: 是很好听
+You said: 很棒很棒
+AI said: 谢谢夸奖哈
+You said: 今天天气很好
+AI said: 大连:周一 05月20日,晴 西北风6-7级,最低气温14度，最高气温22度
+You said: 结束
+AI said: 这么快就结束了呢。
